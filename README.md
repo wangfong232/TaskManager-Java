@@ -20,16 +20,21 @@ It does **not** include any proprietary logic, database, or UI from the original
 ---
 
 ## 📁 Project Structure
-src/
+
+<pre> <code> 
+  src/
 ├── controller/
-│ └── TaskController.java
+│   └── TaskController.java
+├── bo/
+│   └── TaskBO.java
 ├── model/
-│ ├── Task.java
-│ └── TaskType.java
+│   ├── Task.java
+│   └── TaskType.java
 ├── utils/
-│ └── Validation.java
+│   └── Validation.java
 └── view/
-└── MainView.java
+    └── MainView.java
+</code> </pre>
 
 ---
 
