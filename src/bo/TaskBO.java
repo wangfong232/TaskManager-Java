@@ -1,6 +1,5 @@
 package bo;
 
-//Day la noi thuc hiẹn nhiệm vụ 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Comparator;
