@@ -1,5 +1,4 @@
 package controller;
-//người điều phối, chỉ gọi đúng BO ra 
 
 import bo.TaskBO;
 import java.util.Date;
